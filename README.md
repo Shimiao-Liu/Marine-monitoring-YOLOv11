@@ -28,7 +28,7 @@ To run the code, you'll need Python and some additional dependencies. Here’s h
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/marine-pollution-detection.git
+git clone https://github.com/Shimiao-Liu/Marine-monitoring-YOLOv11.git
 
 # Change to the project directory
 cd marine-pollution-detection
